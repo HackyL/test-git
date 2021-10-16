@@ -5,4 +5,5 @@ import "fmt"
 func main() {
 	fmt.Println("hhh")
 	fmt.Println("yyy")
+	fmt.Println("zzz")
 }
